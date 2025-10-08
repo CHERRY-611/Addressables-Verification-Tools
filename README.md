@@ -60,4 +60,6 @@ Addressables **씬 로딩 및 언로딩 시의 메모리 변화량과 로드 시
 
 ## 5. 추가 아이디어
 - `AddressableProfilerWindow` 결과를 **CSV로 내보내어 메모리 변화 기록**  
-- `HashChecker`에 **번들 크기 비교 기능 추가**  
+- `HashChecker`에 **번들 크기 비교 기능 추가**
+
+</br></br>
